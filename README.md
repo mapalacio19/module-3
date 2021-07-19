@@ -10,7 +10,10 @@
 A website that helps to generate passwords for secure use using guidelines
 
 # Pasword Generator Link and Screenshot
+
+[Link to Password Generator Website](https://mapalacio19.github.io/module-3/)
+
 ![passwordgenerator](https://user-images.githubusercontent.com/84938967/126098932-29869eae-39d0-4c8d-a2fa-22a1bd8b1c35.JPG)
 
-[Link to Password Generator](https://mapalacio19.github.io/module-3/)
+
 
